@@ -1,0 +1,40 @@
+
+.texto {
+    position: absolute;
+    bottom:5rem;
+    left: 35rem;
+    font-size: 18px;
+    text-align: right;
+    color:white;
+    padding-right: 3rem; 
+    margin: 5rem;   
+}
+
+.imgBA{
+    background-color: rgba(0, 0, 0, 1); 
+    opacity: 0.8;  
+    height: 500px;
+    max-width: 100%;
+    filter:brightness(0.4);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+.texto2 {
+    text-align: center;
+}
+
+.texto3 {
+    text-align: left;
+}
+
+.btn{
+    background-color: rgba(30, 76, 102);
+}
+.Footer{
+    background-color: rgba(30, 76, 102);
+    text-align: center;
+}
